@@ -1,0 +1,8 @@
+Projeto final de Machine Learning
+Tema: Compressão de imagem com Aprendizado não supervisionado
+
+A implementação pode ser vista no notebook "Projeto final.ipynb"
+
+O vídeo da explicação pode ser acessado no seguinte link:
+
+https://drive.google.com/drive/folders/1WiksSMFJ5JQwTxOrDGG4R9JOy6c7CysW?usp=sharing
